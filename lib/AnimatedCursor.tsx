@@ -335,7 +335,7 @@ function CursorCore({
   }, [showSystemCursor])
 
   const coreStyles: CSSProperties = {
-    zIndex: 999,
+    zIndex: 99999999999999999999,
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
